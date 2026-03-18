@@ -1,0 +1,9 @@
+{
+  "ticker": "BTC-USD",
+  "lookback": 120,
+  "horizon_days": 366,
+  "learning_rate": 0.001,
+  "batch_size": 32,
+  "epochs": 120,
+  "seed": 42
+}
